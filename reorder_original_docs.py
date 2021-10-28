@@ -1,5 +1,6 @@
 #!/bin/python3
 
+# TODO: Run reordering to check performance on new social media dataset
 import pickle
 from corpus_loader import *
 import permutations as Permutations
